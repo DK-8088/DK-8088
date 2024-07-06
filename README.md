@@ -1,7 +1,7 @@
 ⭐  👋 Hi,
 
 ⭐  Iam Dhanakumaran
-and i completed B.E-Computer Science Engineering anna University
+and i completed B.E-Computer Science Engineering in anna University
 
 ⭐  Iam proficient in html,css, javascript, jQuery,java
 
