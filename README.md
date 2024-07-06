@@ -1,7 +1,13 @@
-- 👋 Hi, I’m @DK-8088
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning web development technologies 
+⭐  👋 Hi,
 
+⭐  Iam Dhanakumaran
+and i completed B.E-Computer Science Engineering anna University
+
+⭐  Iam proficient in html,css, javascript, jQuery,java
+
+⭐  iam eagerly waiting to apply these skills in a real time projects
+
+⭐
 
 
 <!---
